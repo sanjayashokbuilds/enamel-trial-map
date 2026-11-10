@@ -1,0 +1,5 @@
+group,n_trials,median_enrollment,enrollment_iqr,median_months_start_to_primary_completion,placebo_arm_share,fluoride_free_arm_share,top_endpoints
+"industry, in situ, since 2016",21,31.5,"(17.25, 53.0)",3,0.57,0.76,surface microhardness (10); mineral loss (TMR/micro-CT) (8); profilometry/surface loss (3); fluoride uptake (2)
+"industry, clinical, since 2016",17,56.5,"(26.25, 264.75)",16,0.12,0.12,white spot visual score (3); ICDAS (2); caries increment (2); sensitivity (2); surface microhardness (1)
+"industry, non-fluoride active, since 2016",11,36,"(20.0, 200.0)",8,0.45,0.36,mineral loss (TMR/micro-CT) (4); surface microhardness (3); white spot visual score (1); ICDAS (1); profilometry/surface loss (1)
+"academic/other, since 2016",593,52.0,"(32.75, 100.0)",12,0.09,0.04,white spot visual score (105); ICDAS (73); sensitivity (57); DIAGNOdent/laser fluorescence (52); lesion arrest/activity (49)
